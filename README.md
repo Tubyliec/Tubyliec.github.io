@@ -34,4 +34,4 @@
 ### 📦 Bundlers
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ***
-[![Top Langs](https://github-readme-stats-tubyliecs.vercel.app/api/top-langs/?username=Tubyliec)](https://github.com/Tubyliec)
+[![Top Langs](https://github-readme-stats-tubyliecs.vercel.app/api/top-langs/?username=Tubyliec)](https://github.com/Tubyliec/github-readmi-stats)
