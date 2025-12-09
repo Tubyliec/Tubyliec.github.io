@@ -1,4 +1,10 @@
-## Hi, I'm Dzmitry
+# Hi, I'm Dzmitry
+
+### 🔗 Contacts
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzmitry-turok-1492402ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/530097707792990229)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vichliun)
 
 ### 💻 Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
